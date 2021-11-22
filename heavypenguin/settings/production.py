@@ -1,8 +1,9 @@
+# Test
 from .base import *
 
 DEBUG = False
 
-ALLOWED_HOSTS = ['devmarcovaleri.ue.eu.pythonanywhere.com']
+ALLOWED_HOSTS = ['devmarcovaleri.eu.pythonanywhere.com']
 
 ROOT_URLCONF = 'heavypenguin.urls'
 
